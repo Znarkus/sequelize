@@ -27,7 +27,7 @@ Hooks (also known as callbacks or lifecycle events), are functions which are cal
   afterUpdate(instance, options, fn)
 (6)
   afterBulkCreate(instances, options, fn)
-  afterBulkDestory(instances, options, fn)
+  afterBulkDestroy(instances, options, fn)
   afterBulkUpdate(instances, options, fn)
 ```
 
